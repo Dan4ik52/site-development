@@ -1,0 +1,48 @@
+.text{
+    font-size: 17px;
+}
+
+.Foto1{
+    width: 600px;
+}
+
+.pages a {
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 5px; 
+    border: 2px solid #0074D9;
+    display: inline-block;
+    font-size: 17px;
+    margin-top: 150px;
+    text-decoration: none;
+    margin-left: 40px;
+    color: black;
+    transition: color 0.2s linear
+}
+
+.pages a:hover{
+    color: rgb(42, 79, 226);
+    background-color: rgb(213, 255, 255);
+}
+
+.address{
+    font-size: 17px;
+    margin-top: 30px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    transition: color 0.2s linear
+}
+
+.address:hover{
+    color: rgb(9, 24, 234);
+}
+
+.header2{
+    color: #0411ff;
+    text-align: center;
+}
+
+.header3{
+    color: #0411ff;
+    text-align: center;
+}
